@@ -1,7 +1,10 @@
 # Release Note
 
+### 0.9.4
+- [x] Let me introduce the development team members
+
 ### 0.9.3
-- [ ] Move recruit Menu and Modify Links
+- [x] Move recruit Menu and Modify Links
 
 ### 0.9.2
 - [x] firebase deploy
