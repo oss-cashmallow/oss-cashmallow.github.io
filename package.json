@@ -1,19 +1,25 @@
 {
   "name": "oss-cashmallow.github.io",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.9.2",
+  "description": "cashmallow dev team's technology blog about wanting to contribute to the open source ecosystem",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "docs:dev": "vuepress dev src",
+    "docs:build": "vuepress build src"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "@vuepress/client": "2.0.0-beta.59",
+    "@vuepress/plugin-back-to-top": "2.0.0-beta.59",
+    "@vuepress/plugin-google-analytics": "2.0.0-beta.59",
+    "@vuepress/plugin-search": "2.0.0-beta.59",
     "vue": "^3.2.45",
     "vuepress": "2.0.0-beta.59"
+  },
+  "dependencies": {
+    "firebase": "^9.15.0"
   }
 }
