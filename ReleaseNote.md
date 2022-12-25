@@ -1,7 +1,7 @@
 # Release Note
 
 ### 0.9.4
-- [ ] Let me introduce the development team members
+- [x] Let me introduce the development team members
 
 ### 0.9.3
 - [x] Move recruit Menu and Modify Links

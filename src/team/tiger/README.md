@@ -18,7 +18,7 @@
 - 이제 입사 첫날이 끝났습니다. 내일도 모레도 우리는 함께 합니다. 하루 하루 성장합시다.
 :::
 
-### Team Member
+### Member
 - 선릉역 호랭이들
 ::: details Alex <Badge type="warning" text="backend" vertical="top" />
 ![Alex](/images/tiger/Alex.jpeg)
@@ -33,6 +33,11 @@
 :::
 
 ::: details Tom <Badge type="danger" text="cto" vertical="top" />
+- Cashmalow CTO
+- People-centered development authority
+- Test-driven development practitioners
+- You go we go
+
 ![Tom](/images/tiger/Tom.jpeg)
 :::
 
