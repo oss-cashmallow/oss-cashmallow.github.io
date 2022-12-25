@@ -11,7 +11,8 @@
 ### Contribute guide
 - Anyone can do it's possible. Let's send the PR first and make it a better team by joining.
 
-1. git clone
+0. created based on [vuepress](https://v2.vuepress.vuejs.org/)
+1. git clone https://github.com/oss-cashmallow/oss-cashmallow.github.io.git
 2. edit with [vscode](https://code.visualstudio.com/)
 3. run - development environment
 - connecting to localhost 8080

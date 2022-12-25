@@ -1,5 +1,8 @@
 # Release Note
 
+### 0.9.3
+- [ ] Move recruit Menu and Modify Links
+
 ### 0.9.2
 - [x] firebase deploy
 
