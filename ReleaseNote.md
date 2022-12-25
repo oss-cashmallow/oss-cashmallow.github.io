@@ -1,7 +1,7 @@
 # Release Note
 
 ### 0.9.2
-- [x] 
+- [x] firebase deploy
 
 ### 0.9.1
 - [x] change src dir
