@@ -82,7 +82,7 @@ export default defineUserConfig({
 
     navbar: [
       { text: "cashmallow", link: "https://www.cashmallow.com" },
-      { text: "recruit", link: "https://www.wanted.co.kr/company/27709" },
+      { text: "recruit", link: "/team/recruit/" },
     ],
 
     sidebar: {
@@ -99,6 +99,7 @@ export default defineUserConfig({
           collapsible: true,
           children: [
             "/team/tiger/",
+            "/team/recruit/",
           ],
         },
         {

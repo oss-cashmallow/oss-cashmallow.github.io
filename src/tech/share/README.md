@@ -8,9 +8,9 @@
 - 그리고 고객과 동료에게 나눌 수 있는 핵심 가치를 [애자일](https://agilemanifesto.org/iso/ko/manifesto.html)하게 개발합니다. 개발자가 행복하지 않은 "사이비애자일과"는 차별점을 분명 보여 드리겠습니다.
 
 - team TIGHER는 팀으로 움직이며 각자 장점을 모아 모아 비지니스를 성공시켜 나가며 함께 성장합니다.
-:::
 
 ![gold tiger](/images/tiger-stern-gold-640.png)
+:::
 
 - 사람의 능력은 너무나 다양하다
 - 분업이 아닌 협업
@@ -20,8 +20,8 @@
 
 ### WANTED
 ::: tip WANTED
-- 글로벌 금융 트래픽 폭주를 경험하고 함께 성장하고 싶다면 = [채용지원](https://www.wanted.co.kr/company/27709)
-- 동료를 돕고 함께 성장하는 것에 보람을 느끼는 타입이라면 = [채용지원](https://www.wanted.co.kr/company/27709)
+- 글로벌 금융 트래픽 폭주를 경험하고 함께 성장하고 싶다면 = [채용지원](/team/recruit/)
+- 동료를 돕고 함께 성장하는 것에 보람을 느끼는 타입이라면 = [채용지원](/team/recruit/)
 - RUST에서 PYTHON을 지나 JAVA까지 비지니스 요구사항에 가장 적절한 언어를 찾아 배우고 적용하고 싶다면! R죠?
 :::
 

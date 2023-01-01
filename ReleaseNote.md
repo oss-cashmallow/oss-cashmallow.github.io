@@ -1,7 +1,10 @@
 # Release Note
 
+### 0.9.6
+- [x] recruiting talent
+
 ### 0.9.5
-- [ ] correction of typo
+- [x] correction of typo
 
 ### 0.9.4
 - [x] Let me introduce the development team members
