@@ -1,5 +1,8 @@
 # Release Note
 
+### 0.9.5
+- [ ] correction of typo
+
 ### 0.9.4
 - [x] Let me introduce the development team members
 
