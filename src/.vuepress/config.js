@@ -119,7 +119,7 @@ export default defineUserConfig({
     }),
     backToTopPlugin(),
     googleAnalyticsPlugin({
-      id: "TODO",
+      id: "G-SZCLCFG0X3",
       debug: true,
     }),
   ],
