@@ -29,28 +29,61 @@
 - 선릉역 호랭이들 / 입사 확정 시 PR 부탁드립니다.
 ::: details <Badge type="warning" text="backend" vertical="top" /> <Badge type="tip" text="frontend" vertical="top" /> It's you
 - And you and the four heroes who will be joining us soon!
-![mallow tiger](https://di2ponv0v5otw.cloudfront.net/posts/2022/09/03/6313a3e51645f7a4b184092b/m_wp_6313a69697b5d0c12cefc10f.webp)
+![mallow tiger](/images/tiger-slamdunk/tiger-slamdunk.006.jpeg)
 :::
 
-::: details <Badge type="warning" text="backend" vertical="top" /> Alex
+::: details Alex <Badge type="warning" text="backend" vertical="top" />
+- THE computer scientist
 - Beckend Engineer
-- Quiet but strong algorithmic master
-![Alex](/images/tiger/Alex.jpeg)
+
+![Alex](/images/tiger-slamdunk/tiger-slamdunk.004.jpeg)
+```
+C++
+Spring boot
+Kubernetes
+RADAR - Light Detection And Ranging
+```
 :::
 
-::: details  <Badge type="tip" text="frontend" vertical="top" /> Musk
-- Front-end Software Engineer
-- He's like a considerate older brother
-![Musk](/images/tiger/Musk.jpeg)
+::: details Jack <Badge type="tip" text="frontend" vertical="top" /> <Badge type="warning" text="backend" vertical="top" />
+- Abstinence jackdaniel
+- Full stack developer
+
+![Jack](/images/tiger-slamdunk/tiger-slamdunk.003.jpeg)
+```
+flutter, Nest.JS, TypeScript, Android
+Spring boot
+MySQL, MongoDB, PostgreSQL
+Docker
+AWS, GCP
+```
 :::
 
-::: details <Badge type="danger" text="CTO" vertical="top" /> <Badge type="danger" text="SRE" vertical="top" /> <Badge type="danger" text="DevRel" vertical="top" /> Tom
+::: details Nam <Badge type="tip" text="web developer" vertical="top" />
+- Communicate with consideration for each other!
+- web developer
+
+![Nam](/images/tiger-slamdunk/tiger-slamdunk.001.jpeg)
+```
+MySQL, Oracle, 
+Java, Spring Framework, Spring Boot
+jQuery
+```
+:::
+
+::: details Tom <Badge type="danger" text="CTO" vertical="top" /> <Badge type="danger" text="SRE" vertical="top" /> <Badge type="danger" text="DevRel" vertical="top" />
 - Cashmalow CTO
-- People-centered development authority
-- Test-driven development practitioners
-- You go we go
+- People-centered development authority! You go we go!
 
-![Tom](/images/tiger/Tom.jpeg)
+![Tom](/images/tiger-slamdunk/tiger-slamdunk.005.jpeg)
+```
+Vue
+Agile
+Hello (Erlang, Rust)
+Python, Ruby, Java, JSP
+Apache Zeppelin Evangelist
+Launching digiNORI & DataYaNolja
+```
 :::
 
 ### LGTM
