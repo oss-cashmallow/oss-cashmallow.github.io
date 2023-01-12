@@ -14,10 +14,10 @@
 0. created based on [vuepress](https://v2.vuepress.vuejs.org/)
 1. git clone https://github.com/oss-cashmallow/oss-cashmallow.github.io.git
 2. edit with [vscode](https://code.visualstudio.com/)
-3. run - development environment
+3. run - development environment [install pnpm](https://pnpm.io/installation)
 - connecting to localhost 8080
 ```
-pmpm install
+pnpm install
 pnpm docs:dev
 ```
 
