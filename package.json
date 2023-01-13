@@ -1,6 +1,6 @@
 {
   "name": "oss-cashmallow.github.io",
-  "version": "0.9.5",
+  "version": "0.9.6",
   "description": "cashmallow dev team's technology blog about wanting to contribute to the open source ecosystem",
   "main": "index.js",
   "scripts": {

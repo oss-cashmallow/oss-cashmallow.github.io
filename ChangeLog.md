@@ -1,5 +1,8 @@
 # ChangeLog
 
+### 0.9.6
+- [x] recruiting talent
+
 ### 0.9.5
 - [ ] correction of typo
 - [ ] Add introduction of team member Alex
