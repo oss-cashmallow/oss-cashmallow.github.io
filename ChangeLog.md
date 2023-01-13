@@ -1,10 +1,11 @@
-# Release Note
+# ChangeLog
 
 ### 0.9.6
 - [x] recruiting talent
 
 ### 0.9.5
-- [x] correction of typo
+- [ ] correction of typo
+- [ ] Add introduction of team member Alex
 
 ### 0.9.4
 - [x] Let me introduce the development team members

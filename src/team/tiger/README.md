@@ -16,7 +16,7 @@
 
 2. 개발 환경 - 입사일 전 원하시는 환경에 대한 문의를 바탕으로 모든 것이 딱! 세팅되어 있습니다. 노트북 열고 바로 코드리뷰 따라오시면 됩니다.
 
-3. 코드 리뷰 - 메일 메일 조금씩 즐거운 분위기에서 코드리뷰를 진행합니다. 개발 문화와 업무흐름 code review로 알려드리겠습니다. 
+3. 코드 리뷰 - 메일 메일 조금씩 즐거운 분위기에서 코드리뷰를 진행합니다. 개발 문화와 업무흐름 code review로 알려드리겠습니다.
 
 4. 호랑이 코드 치던 시설 ~ 첫 코드리뷰 참가시 자기소개 타임이 있습니다. AppleTV4K에 맥북 연결하시고 자기소개 시작! & 끝나고 4케 한잔! 이제 첫날 업무 끝! 고생하셨습니다.
 
@@ -34,28 +34,64 @@
 :::
 ::: details <Badge type="warning" text="backend" vertical="top" /> <Badge type="tip" text="frontend" vertical="top" /> It's you
 - And you and the four heroes who will be joining us soon!
-![mallow tiger](https://di2ponv0v5otw.cloudfront.net/posts/2022/09/03/6313a3e51645f7a4b184092b/m_wp_6313a69697b5d0c12cefc10f.webp)
+![mallow tiger](/images/tiger-slamdunk/tiger-slamdunk.006.jpeg)
 :::
 
-::: details <Badge type="warning" text="backend" vertical="top" /> Alex
-- Beckend Engineer
-- Quiet but strong algorithmic master
-![Alex](/images/tiger/Alex.jpeg)
+::: details Alex <Badge type="warning" text="backend" vertical="top" />
+- M.S. in Computer Science
+- Backend Engineer
+- 좋은 백엔드 엔지니어가 되기 위해서 공부 중입니다. 많이 물어보고 많이 가르쳐주세요.
+
+![Alex](/images/tiger-slamdunk/tiger-slamdunk.004.jpeg)
+```
+JAVA
+C
+Spring boot
+Kubernetes
+OpenGL
+LiDAR - Light Detection And Ranging
+```
 :::
 
-::: details  <Badge type="tip" text="frontend" vertical="top" /> Musk
-- Front-end Software Engineer
-- He's like a considerate older brother
-![Musk](/images/tiger/Musk.jpeg)
+::: details Jack <Badge type="tip" text="frontend" vertical="top" /> <Badge type="warning" text="backend" vertical="top" />
+- Abstinence jackdaniel
+- Full stack developer
+
+![Jack](/images/tiger-slamdunk/tiger-slamdunk.003.jpeg)
+```
+flutter, Nest.JS, TypeScript, Android
+Spring boot
+MySQL, MongoDB, PostgreSQL
+Docker
+AWS, GCP
+```
 :::
 
-::: details <Badge type="danger" text="CTO" vertical="top" /> <Badge type="danger" text="SRE" vertical="top" /> <Badge type="danger" text="DevRel" vertical="top" /> Tom
+::: details Nam <Badge type="tip" text="web developer" vertical="top" />
+- Communicate with consideration for each other!
+- web developer
+
+![Nam](/images/tiger-slamdunk/tiger-slamdunk.001.jpeg)
+```
+MySQL, Oracle, 
+Java, Spring Framework, Spring Boot
+jQuery
+```
+:::
+
+::: details Tom <Badge type="danger" text="CTO" vertical="top" /> <Badge type="danger" text="SRE" vertical="top" /> <Badge type="danger" text="DevRel" vertical="top" />
 - Cashmalow CTO
-- People-centered development authority
-- Test-driven development practitioners
-- You go we go
+- People-centered development authority! You go we go!
 
-![Tom](/images/tiger/Tom.jpeg)
+![Tom](/images/tiger-slamdunk/tiger-slamdunk.005.jpeg)
+```
+Vue
+Agile
+Hello (Erlang, Rust)
+Python, Ruby, Java, JSP
+Apache Zeppelin Evangelist
+Launching digiNORI & DataYaNolja
+```
 :::
 
 ### LGTM
