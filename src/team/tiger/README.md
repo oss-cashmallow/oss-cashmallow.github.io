@@ -16,7 +16,7 @@
 
 2. 개발 환경 - 입사일 전 원하시는 환경에 대한 문의를 바탕으로 모든 것이 딱! 세팅되어 있습니다. 노트북 열고 바로 코드리뷰 따라오시면 됩니다.
 
-3. 코드 리뷰 - 메일 메일 조금씩 즐거운 분위기에서 코드리뷰를 진행합니다. 개발 문화와 업무흐름 code review로 알려드리겠습니다. 
+3. 코드 리뷰 - 메일 메일 조금씩 즐거운 분위기에서 코드리뷰를 진행합니다. 개발 문화와 업무흐름 code review로 알려드리겠습니다.
 
 4. 호랑이 코드 치던 시설 ~ 첫 코드리뷰 참가시 자기소개 타임이 있습니다. AppleTV4K에 맥북 연결하시고 자기소개 시작! & 끝나고 4케 한잔! 이제 첫날 업무 끝! 고생하셨습니다.
 
@@ -26,22 +26,27 @@
 :::
 
 ### Member
+
 - 선릉역 호랭이들 / 입사 확정 시 PR 부탁드립니다.
+
 ::: details <Badge type="warning" text="backend" vertical="top" /> <Badge type="tip" text="frontend" vertical="top" /> It's you
 - And you and the four heroes who will be joining us soon!
 ![mallow tiger](/images/tiger-slamdunk/tiger-slamdunk.006.jpeg)
 :::
 
 ::: details Alex <Badge type="warning" text="backend" vertical="top" />
-- THE computer scientist
-- Beckend Engineer
+- M.S. in Computer Science
+- Backend Engineer
+- 좋은 백엔드 엔지니어가 되기 위해서 공부 중입니다. 많이 물어보고 많이 가르쳐주세요.
 
 ![Alex](/images/tiger-slamdunk/tiger-slamdunk.004.jpeg)
 ```
-C++
+JAVA
+C
 Spring boot
 Kubernetes
-RADAR - Light Detection And Ranging
+OpenGL
+LiDAR - Light Detection And Ranging
 ```
 :::
 
