@@ -1,7 +1,8 @@
-# Release Note
+# ChangeLog
 
 ### 0.9.5
 - [ ] correction of typo
+- [ ] Add introduction of team member Alex
 
 ### 0.9.4
 - [x] Let me introduce the development team members
