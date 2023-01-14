@@ -1,8 +1,21 @@
 # The Beginning of Collaboration
 
 ### STEP 1 - kanban
+```
 - 칸반 미팅 통해여 서로의 작업 공유 - 09:15
 - 서로 도와 재밋고 효율적 방법 찾기
+
+.　/＼＿／ヽ
+／ _ノ　ヽ_ ＼
+|　　━　 ━　i
+＼ミ (_人_) 彡
+　／￣￣⌒＼/⌒)――――
+. /　　　　＿／　
+. |　　　＼
+　＼ 〇_　 ＼
+　　＼ノ.＼_ノ
+
+```
 
 ### STEP 2 - create branch
 ``` bash
@@ -49,10 +62,40 @@ remote:      https://github.com/oss-cashmallow/oss-cashmallow.github.io/pull/new
 ```
 
 ### STEP 5 - art coding and testing
+```
+.　 ∧,,∧
+∩(＾ 0 ＾)∩
+ヽ　　　ノ
+　.|　　|
+　 U⌒U.
+```
 
 ### STEP 6 - code review
+```
+.　　　　　　　　　　　　　　　　　　　∧,, ∧
+　　　　　　　　　　　　　　　　　　 (`・ω・´)
+　　　 　　　　　　　　　　　　 　 　 Ｕ θ Ｕ
+　　　　 　　　　　　　　　　　 ／￣￣Ⅰ￣￣＼
+　　　　　 　　　　　　　　　　|二二二二二二二|
+　　　　　　　　　　　　　　 　｜　　　　　　　　｜
+찰칵 　찰칵 　찰칵 　찰칵 　찰칵 　찰칵 　찰칵 　찰칵 　찰칵
+　　　찰칵 　찰칵 　찰칵 　찰칵 　찰칵 　찰칵 　찰칵 　찰칵 　찰칵
+　∧_∧　　　 　　∧_∧ 　　　 ∧_∧　　∧_∧　　　　∧_∧　　　　 ∧_∧
+　(　　 )】 　 　 　(　　 )】　　　 (　　 )】 【(　　 )　　　 【(　　 )　　　 【(　　 )
+　/　 /┘　.　 　/　 /┘.　 　　/　 /┘ └＼ ＼　 　└＼ ＼　　 └＼ ＼
+ノ￣ゝ　 　　　ノ￣ゝ 　　　 　ノ￣ゝ　 　　　ノ￣ゝ 　　 ノ￣ゝ　 　 　ノ￣ゝ
+```
 
 ### STEP 7 - deploy STG & UAT
 
-### STEP 8 - deploy PRD & SRE
+### STEP 8 - deploy PRD
+
+```
+.　 　 ∩　 ∩
+　　 / |／ /
+　　/ 　　/
+⊂二 　 　 二⊃
+　（ ､σ， ）& SRE～
+　　Ｖ"Ｖ
+```
 

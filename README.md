@@ -4,9 +4,8 @@
 <img src="https://oss-cashmallow.github.io/images/tiger-cute.svg" alt="tiger cute" style="width:200px;"/>
 
 ### Connecting
-- REAL - https://oss.cashmallow.com
-- BACK - https://oss-cashmallow.github.io
-- BETA - https://oss-cashmallow.web.app
+- PRD - https://oss.cashmallow.com / oss-cashmallow.github.io
+- STG - https://oss-cashmallow.web.app
 
 ### Contribute guide
 - Anyone can do it's possible. Let's send the PR first and make it a better team by joining.

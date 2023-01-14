@@ -9,6 +9,9 @@ firebase deploy
 
 git checkout HEAD -- docs/
 
-git clean -fd --dry-run
+echo "╞╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╡╞╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╡"
+# git clean -fd --dry-run
 
 git clean -fdi
+
+echo "https://oss-cashmallow.web.app"
