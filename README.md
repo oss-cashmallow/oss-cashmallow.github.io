@@ -24,7 +24,7 @@ pnpm docs:dev
 ### build & deploy
 1. STG
 ``` bash
-sh deploy-stg.sh
+$ sh deploy-stg.sh
 
 > oss-cashmallow.github.io@0.9.6 docs:build /Users/m2/code/cashmallow/oss-cashmallow/oss-cashmallow.github.io
 > vuepress build src
