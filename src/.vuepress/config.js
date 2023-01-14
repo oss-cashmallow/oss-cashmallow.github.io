@@ -100,6 +100,7 @@ export default defineUserConfig({
           children: [
             "/team/tiger/",
             "/team/recruit/",
+            "/team/how2pr/"
           ],
         },
         {
