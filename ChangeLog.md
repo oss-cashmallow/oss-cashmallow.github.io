@@ -1,5 +1,8 @@
 # ChangeLog
 
+### 0.9.7
+- [ ] The Beginning of Collaboration
+
 ### 0.9.6
 - [x] recruiting talent
 
