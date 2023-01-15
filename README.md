@@ -22,51 +22,15 @@ pnpm docs:dev
 
 ### build & deploy
 1. STG
+- [x] 배포전 작업 파일은 모두 커밋!
 ``` bash
 $ sh deploy-stg.sh
-
-> oss-cashmallow.github.io@0.9.6 docs:build /Users/m2/code/cashmallow/oss-cashmallow/oss-cashmallow.github.io
-> vuepress build src
-
-▲ [WARNING] Duplicate key "locales" in object literal [duplicate-object-key]
-
-    src/.vuepress/config.js:39:2:
-      39 │   locales: {
-         ╵   ~~~~~~~
-
-  The original key "locales" is here:
-
-    src/.vuepress/config.js:23:2:
-      23 │   locales: {
-         ╵   ~~~~~~~
-
-warning plugin @vuepress/plugin-back-to-top has been used multiple times, only the last one will take effect
-✔ Initializing and preparing data - done in 109ms
-✔ Compiling with vite - done in 1.98s
-⠋ Rendering 7 pages[Vue warn]: Failed to resolve component: CaptionedImage
-If this is a native custom element, make sure to exclude it from component resolution via compilerOptions.isCustomElement.
-[Vue warn]: Component <Anonymous> is missing template or render function.
-✔ Rendering 7 pages - done in 77ms
-success VuePress build completed in 2.21s!
-Already logged in as mgg@cashmallow.com
-
-   ╭───────────────────────────────────────────────────────────────────╮
-   │                                                                   │
-   │                Update available 11.19.0 → 11.20.0                 │
-   │          To update to the latest version using npm, run           │
-   │                   npm install -g firebase-tools                   │
-   │   For other CLI management options, visit the CLI documentation   │
-   │                                                                   │
-   │                                                                   │
-   │                                                                   │
-   ╰───────────────────────────────────────────────────────────────────╯
-
 
 === Deploying to 'oss-cashmallow'...
 
 i  deploying hosting
 i  hosting[oss-cashmallow]: beginning deploy...
-i  hosting[oss-cashmallow]: found 44 files in ./docs
+i  hosting[oss-cashmallow]: found 43 files in ./docs
 ✔  hosting[oss-cashmallow]: file upload complete
 i  hosting[oss-cashmallow]: finalizing version...
 ✔  hosting[oss-cashmallow]: version finalized
@@ -77,17 +41,22 @@ i  hosting[oss-cashmallow]: releasing new version...
 
 Project Console: https://console.firebase.google.com/project/oss-cashmallow/overview
 Hosting URL: https://oss-cashmallow.web.app
-HEAD의 현재 위치는 87dae45입니다 add ignore .firebase
-deploy-stg.sh 제거할 예정
-docs/assets/app-b15f0e51.js 제거할 예정
-docs/assets/index.html-82b612ae.js 제거할 예정
-docs/assets/index.html-dba8ee3a.js 제거할 예정
-docs/team/how2pr/ 제거할 예정
-deploy-stg.sh 제거
-docs/assets/app-b15f0e51.js 제거
-docs/assets/index.html-82b612ae.js 제거
-docs/assets/index.html-dba8ee3a.js 제거
+╞╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╡╞╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╡
+다음 항목을 제거할 예정입니다:
+  docs/assets/app-a5e3f83c.js         docs/assets/index.html-77e713f0.js  docs/team/how2pr/
+  docs/assets/index.html-6e725bfb.js  docs/assets/index.html-a3f200a8.js
+*** 명령 ***
+    1: clean                2: filter by pattern    3: select by numbers    4: ask each             5: quit
+    6: help
+무엇을 할까요> 1
+docs/assets/app-a5e3f83c.js 제거
+docs/assets/index.html-6e725bfb.js 제거
+docs/assets/index.html-77e713f0.js 제거
+docs/assets/index.html-a3f200a8.js 제거
 docs/team/how2pr/ 제거
+╞╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╡╞╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╡
+STG DEPLOY OK!
+https://oss-cashmallow.web.app
 ```
 
 2. PRD
