@@ -26,7 +26,8 @@
 - 1. 어떤 일을 끝마쳤는지
 - 2. 어떤 일을 진행할 예정인지
 - 3. 그리고 업무에 지장을 줄 수 있는 요소가 무엇이고 - 힐러와 히어로를 찾기
-
+[kanban-guide](https://kanban.university/kanban-guide/#download)
+![ygwg](https://i0.wp.com/congruentagile.com/wp-content/uploads/2021/11/%E1%84%8F%E1%85%A1%E1%86%AB%E1%84%87%E1%85%A1%E1%86%AB-%E1%84%86%E1%85%A1%E1%86%AB%E1%84%92%E1%85%AA.png?resize=1024%2C777&ssl=1)
 :::
 
 ### STEP 2 - create branch

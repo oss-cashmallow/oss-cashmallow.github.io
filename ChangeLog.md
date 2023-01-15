@@ -2,6 +2,7 @@
 
 ### 0.9.7
 - [x] The Beginning of Collaboration
+- [ ] Tiger Walk to Agile
 
 ### 0.9.6
 - [x] recruiting talent
