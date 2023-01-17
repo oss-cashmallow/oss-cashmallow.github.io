@@ -39,8 +39,16 @@
 
 
 ::: details Dew <Badge type="warning" text="backend" vertical="top" />
-- And you and the four heroes who will be joining us soon!
-![mallow tiger](/images/tiger-slamdunk/tiger-slamdunk.006.jpeg)
+- Backend Developer
+- Kubernetes Engineer
+- 많은 관심과 격려 부탁드립니다~~
+
+![Dew](/images/tiger-slamdunk/tiger-slamdunk.007.jpeg)
+```
+Javs & Spring
+Oracle, Mysql
+Kubernetes
+```
 :::
 
 ::: details Alex <Badge type="warning" text="backend" vertical="top" />
@@ -89,7 +97,7 @@ jQuery
 - Cashmalow CTO
 - People-centered development authority! You go we go!
 
-![Tom](/images/tiger-slamdunk/tiger-slamdunk.005.jpeg)
+![Tom](/images/tiger-slamdunk/tiger-slamdunk.008.jpeg)
 ```
 Vue
 Agile
