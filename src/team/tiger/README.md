@@ -37,6 +37,12 @@
 ![mallow tiger](/images/tiger-slamdunk/tiger-slamdunk.006.jpeg)
 :::
 
+
+::: details Dew <Badge type="warning" text="backend" vertical="top" />
+- And you and the four heroes who will be joining us soon!
+![mallow tiger](/images/tiger-slamdunk/tiger-slamdunk.006.jpeg)
+:::
+
 ::: details Alex <Badge type="warning" text="backend" vertical="top" />
 - M.S. in Computer Science
 - Backend Engineer
