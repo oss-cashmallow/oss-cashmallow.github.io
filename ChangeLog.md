@@ -1,7 +1,7 @@
 # ChangeLog
 
 ### 0.9.8
-- [ ] Introduce self dew 
+- [x] Introduce self dew 
 
 ### 0.9.7
 - [x] The Beginning of Collaboration
