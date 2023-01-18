@@ -18,6 +18,8 @@
 - devops & SRE
 - code review
 - Agile Retrospective
+- Pair Programming
+- TDD, BDD
 
 ### 호랭자일 12 원칙
 - [애자일 소프트웨어의 12가지 원칙](https://agilemanifesto.org/iso/ko/principles.html)

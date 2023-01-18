@@ -1,5 +1,8 @@
 # ChangeLog
 
+### 0.9.8
+- [x] Introduce self dew 
+
 ### 0.9.7
 - [x] The Beginning of Collaboration
 - [ ] Tiger Walk to Agile
