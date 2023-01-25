@@ -45,7 +45,7 @@
 
 ![Dew](/images/tiger-slamdunk/tiger-slamdunk.007.jpeg)
 ```
-Javs & Spring
+Java & Spring
 Oracle, Mysql
 Kubernetes
 ```
@@ -67,13 +67,14 @@ LiDAR - Light Detection And Ranging
 ```
 :::
 
-::: details Jack <Badge type="tip" text="frontend" vertical="top" /> <Badge type="warning" text="backend" vertical="top" />
-- Abstinence jackdaniel
-- Full stack developer
+::: details JD <Badge type="tip" text="frontend" vertical="top" /> <Badge type="warning" text="backend" vertical="top" />
+- Impossible is nothing!
+- Super positive!
+- Backend + Front(Android, iOS, Flutter) developer
 
-![Jack](/images/tiger-slamdunk/tiger-slamdunk.003.jpeg)
+![JD](/images/tiger-slamdunk/tiger-slamdunk.003.jpeg)
 ```
-flutter, Nest.JS, TypeScript, Android
+Flutter, Nest.JS, TypeScript, Android, iOS
 Spring boot
 MySQL, MongoDB, PostgreSQL
 Docker
