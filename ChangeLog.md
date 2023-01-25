@@ -1,5 +1,9 @@
 # ChangeLog
 
+### 0.9.9
+- [x] Introduce self JD
+
+
 ### 0.9.8
 - [x] Introduce self dew 
 
