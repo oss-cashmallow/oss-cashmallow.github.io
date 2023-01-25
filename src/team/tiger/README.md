@@ -70,7 +70,7 @@ LiDAR - Light Detection And Ranging
 ::: details JD <Badge type="tip" text="frontend" vertical="top" /> <Badge type="warning" text="backend" vertical="top" />
 - Impossible is nothing!
 - Super positive!
-- Backend + Front(Android, iOS, Flutter) developer!
+- Backend + Front(Android, iOS, Flutter) developer
 
 ![JD](/images/tiger-slamdunk/tiger-slamdunk.003.jpeg)
 ```
