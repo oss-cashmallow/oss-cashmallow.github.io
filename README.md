@@ -15,6 +15,7 @@
 2. edit with [vscode](https://code.visualstudio.com/)
 3. run - development environment [install pnpm](https://pnpm.io/installation)
 - connecting to localhost 8080
+- node.js install if you have get error 'ELIFECYCLE Command failed'
 ```
 pnpm install
 pnpm docs:dev
