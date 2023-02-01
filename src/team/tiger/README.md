@@ -82,7 +82,7 @@ AWS, GCP
 ```
 :::
 
-::: details Nam <Badge type="tip" text="web developer, Backend Engineer" vertical="top" />
+::: details Seok <Badge type="tip" text="web developer, Backend Engineer" vertical="top" />
 - Communicate with consideration for each other!
 - web developer, Back-end
 
