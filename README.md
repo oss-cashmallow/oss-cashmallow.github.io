@@ -13,7 +13,12 @@
 0. created based on [vuepress](https://v2.vuepress.vuejs.org/)
 1. git clone https://github.com/oss-cashmallow/oss-cashmallow.github.io.git
 2. edit with [vscode](https://code.visualstudio.com/)
-3. run - development environment [install pnpm](https://pnpm.io/installation)
+3. install
+``` bash
+brew install node
+brew install pnpm
+```
+4. run - development environment [install pnpm](https://pnpm.io/installation)
 - connecting to localhost 8080
 - node.js install if you have get error 'ELIFECYCLE Command failed'
 ```
