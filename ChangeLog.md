@@ -1,5 +1,9 @@
 # ChangeLog
 
+### 1.0.0
+- [ ] Introduce self Seok
+- [ ] add gitignore - intellj
+- 
 ### 0.9.9
 - [x] Introduce self JD
 

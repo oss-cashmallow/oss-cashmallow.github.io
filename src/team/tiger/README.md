@@ -82,15 +82,16 @@ AWS, GCP
 ```
 :::
 
-::: details Nam <Badge type="tip" text="web developer" vertical="top" />
+::: details Seok <Badge type="tip" text="web developer, Backend Engineer" vertical="top" />
 - Communicate with consideration for each other!
-- web developer
+- web developer, Back-end
 
-![Nam](/images/tiger-slamdunk/tiger-slamdunk.001.jpeg)
+![Seok](/images/tiger-slamdunk/tiger-slamdunk.001.jpeg)
 ```
 MySQL, Oracle, 
 Java, Spring Framework, Spring Boot
-jQuery
+jQuery, json
+
 ```
 :::
 
