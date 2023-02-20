@@ -70,7 +70,7 @@ https://oss-cashmallow.web.app
 2. PRD
 - github pages -> docs
 - sh build.sh -> push -> pr merge -> deploy - end
-- https://oss-cashmallow.com
+- https://oss.cashmallow.com
 
 <img src="https://user-images.githubusercontent.com/120996497/212484360-1b212db0-5a5c-449f-8cc2-35de2126bd66.png" alt="cashmallow" style="width:600px;"/>
 <img src="https://oss-cashmallow.github.io/images/hero.png" alt="cashmallow" style="width:200px;"/>
