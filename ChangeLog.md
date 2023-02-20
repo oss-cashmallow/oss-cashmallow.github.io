@@ -3,6 +3,7 @@
 ### 1.1.0
 - [ ] add new tiger jk
 - [x] add guide - https://semver.org/
+- [x] delete unused images
 
 ### 1.0.0
 - [x] Introduce self Seok
