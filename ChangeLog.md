@@ -1,9 +1,10 @@
 # ChangeLog
 
 ### 1.1.0
-- [ ] add new tiger jk
+- [x] add new tiger jk
 - [x] add guide - https://semver.org/
 - [x] delete unused images
+- [x] Introduce self JK
 
 ### 1.0.0
 - [x] Introduce self Seok
