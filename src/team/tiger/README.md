@@ -38,6 +38,20 @@
 :::
 
 
+::: details JK <Badge type="warning" text="backend" vertical="top" />
+- Backend Developer
+- 자료구조와 데이터베이스를 좋아합니다.
+- 최적화에 진심입니다.
+- 열심히 하겠습네다. 잘 부탁드립네다.
+
+![JK](/images/darth-vader.png)
+```
+Java
+Spring Boot
+Mysql
+```
+:::
+
 ::: details Dew <Badge type="warning" text="backend" vertical="top" />
 - Backend Developer
 - Kubernetes Engineer

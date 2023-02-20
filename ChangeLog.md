@@ -1,19 +1,24 @@
 # ChangeLog
 
+### 1.1.0
+- [x] add new tiger jk
+- [x] add guide - https://semver.org/
+- [x] delete unused images
+- [x] Introduce self JK
+
 ### 1.0.0
-- [ ] Introduce self Seok
-- [ ] add gitignore - intellj
-- 
+- [x] Introduce self Seok
+- [x] add gitignore - intellj
+
 ### 0.9.9
 - [x] Introduce self JD
-
 
 ### 0.9.8
 - [x] Introduce self dew 
 
 ### 0.9.7
 - [x] The Beginning of Collaboration
-- [ ] Tiger Walk to Agile
+- [x] Tiger Walk to Agile
 
 ### 0.9.6
 - [x] recruiting talent
