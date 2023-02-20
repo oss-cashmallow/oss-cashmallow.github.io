@@ -38,6 +38,18 @@
 :::
 
 
+::: details JK <Badge type="warning" text="backend" vertical="top" />
+- Backend Developer
+- 열심히 하겠습네다. 잘 부탁드립네다.
+
+![JK](/images/darth-vader.png)
+```
+Java
+Spring Boot
+Mysql
+```
+:::
+
 ::: details Dew <Badge type="warning" text="backend" vertical="top" />
 - Backend Developer
 - Kubernetes Engineer
