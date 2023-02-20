@@ -43,6 +43,7 @@ v0.9.6
 $ git branch v0.9.7/how2write-code-with-PR
 $ git checkout v0.9.7/how2write-code-with-PR
 
+# 버전 규칙은 https://semver.org/ 를 따름
 $ git branch --show-current
 v0.9.7/how2write-code-with-PR
 ```
