@@ -1,5 +1,8 @@
 # ChangeLog
 
+### 1.2.0
+- [ ] good by tom
+
 ### 1.1.0
 - [x] add new tiger jk
 - [x] add guide - https://semver.org/
