@@ -37,6 +37,18 @@
 ![mallow tiger](/images/tiger-slamdunk/tiger-slamdunk.006.jpeg)
 :::
 
+::: details Ock <Badge type="tip" text="iOS" vertical="top" />
+- iOS Developer
+- UI/UX에 진심입니다.
+- 사용자를 생각하며 개발합니다.
+- 열심히 잘 하겠습니다.
+
+![Ock](/images/tiger-cute-628.png)
+```
+Swift
+SwiftUI
+```
+:::
 
 ::: details JK <Badge type="warning" text="backend" vertical="top" />
 - Backend Developer
