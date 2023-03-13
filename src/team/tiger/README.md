@@ -121,21 +121,6 @@ jQuery, json
 ```
 :::
 
-::: details Tom <Badge type="danger" text="CTO" vertical="top" /> <Badge type="danger" text="SRE" vertical="top" /> <Badge type="danger" text="DevRel" vertical="top" />
-- Cashmalow CTO
-- People-centered development authority! You go we go!
-
-![Tom](/images/tiger-slamdunk/tiger-slamdunk.008.jpeg)
-```
-Vue
-Agile
-Hello (Erlang, Rust)
-Python, Ruby, Java, JSP
-Apache Zeppelin Evangelist
-Launching digiNORI & DataYaNolja
-```
-:::
-
 ### LGTM
 - 함께 떠나요! 하와이(니가 ...)
 
