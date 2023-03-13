@@ -1,5 +1,8 @@
 # ChangeLog
 
+### 1.1.1
+- [ ] Introduce self Ock
+
 ### 1.1.0
 - [x] add new tiger jk
 - [x] add guide - https://semver.org/
