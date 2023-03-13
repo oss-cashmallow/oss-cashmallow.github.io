@@ -1,7 +1,8 @@
 # ChangeLog
 
 ### 1.1.1
-- [ ] Introduce self Ock
+- [x] Introduce self Ock
+- [x] GoodBye TOM
 
 ### 1.1.0
 - [x] add new tiger jk
