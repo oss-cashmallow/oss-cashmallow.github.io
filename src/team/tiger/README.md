@@ -43,7 +43,7 @@
 - 사용자를 생각하며 개발합니다.
 - 열심히 잘 하겠습니다.
 
-![Ock](/images/tiger-cute-628.png)
+![Ock](/images/tiger-slamdunk/tiger-slamdunk.005.jpeg)
 ```
 Swift
 SwiftUI
